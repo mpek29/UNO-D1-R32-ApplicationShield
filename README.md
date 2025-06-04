@@ -29,7 +29,7 @@
 ![Application Shield](assets/img/app_shield_sch.png)
 
 ## 🧭 UNO D1 R32 Pinout
-![UNO D1 R32 Pinout](assets/img/uno_d1_r32_pinout.png)
+![UNO D1 R32 Pinout](assets/img/uno_d1_r32_sch.png)
 
 ## 🎛️ Example Applications
 
