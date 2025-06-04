@@ -26,10 +26,10 @@
 | 🎚️ ADC Readings       | Use `adc1_get_raw()` with calibration for accurate values. |
 
 ## 🔌 Application Shield Schematics
-![Application Shield](assets/img/app_shield_sch.png)
+<img src="assets/img/app_shield_sch.png" alt="ApplicationShield Schematic" height="auto" width="50%">
 
 ## 🧭 UNO D1 R32 Pinout
-![UNO D1 R32 Pinout](assets/img/uno_d1_r32_sch.png)
+<img src="assets/img/uno_d1_r32_sch.png" alt="UNO D1 R32 Pinout" height="auto" width="50%">
 
 ## 🎛️ Example Applications
 
