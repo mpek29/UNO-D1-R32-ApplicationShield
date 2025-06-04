@@ -72,25 +72,5 @@ uno-d1-r32-appshield/
 └── README.md
 ```
 
-
-## ⚙️ ESP-IDF Configuration
-- **Framework**: ESP-IDF v5.x or later  
-- **Enabled in `sdkconfig`**:  
-  - ADC calibration (`CONFIG_ADC_CALIBRATION`)  
-  - UART (TX/RX) settings  
-  - I2C pin config (e.g., `CONFIG_I2C_MASTER_SCL`, `CONFIG_I2C_MASTER_SDA`)  
-  - SPI host config (`HSPI_HOST` or `VSPI_HOST`)  
-
-## 📦 Dependencies
-Standard ESP-IDF components:  
-- `driver/gpio.h`  
-- `driver/ledc.h`  
-- `driver/adc.h`  
-- `driver/uart.h`  
-- `driver/i2c.h`  
-- `driver/spi_master.h`  
-- `esp_timer.h`  
-- `esp_adc_cal.h`  
-
 ## 🌟 License
 This project is open-source. You are free to use, modify, and contribute.
