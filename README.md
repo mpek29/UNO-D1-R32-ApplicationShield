@@ -1,4 +1,4 @@
-# UNO-D1-R32-ApplicationShield (ESP-IDF)
+# UnoD1R32-ApplicationShield
 
 ## 🚀 Overview
 ![Main Preview](assets/img/main.png)
